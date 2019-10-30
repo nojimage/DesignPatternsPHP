@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2019, Dominik Liebler and contributors
+# This file is distributed under the same license as the DesignPatternsPHP package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignPatternsPHP 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 19:11+0900\n"
+"PO-Revision-Date: 2019-10-29 20:48+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: nojimage <nojimage@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: ../../Structural/README.rst:2
+msgid "`Structural`__"
+msgstr ""
+"`構造に関するパターン <https://ja.wikipedia.org/wiki/"
+"%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC"
+"%E3%83%B3_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)#%E6%A7%8B"
+"%E9%80%A0%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%91%E3%82%BF%E3%83%BC"
+"%E3%83%B3>`__"
+
+#: ../../Structural/README.rst:4
+msgid ""
+"In Software Engineering, Structural Design Patterns are Design Patterns that "
+"ease the design by identifying a simple way to realize relationships between "
+"entities."
+msgstr ""
+"ソフトウェアエンジニアリングにおいては、構造に関するデザインパターンは、エン"
+"ティティ間の関係を実現する簡素な手法を見極めることで設計を容易にするデザイン"
+"パターンです。"
