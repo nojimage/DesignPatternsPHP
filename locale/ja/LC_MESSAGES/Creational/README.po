@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2019, Dominik Liebler and contributors
+# This file is distributed under the same license as the DesignPatternsPHP package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignPatternsPHP 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 19:11+0900\n"
+"PO-Revision-Date: 2019-10-29 20:29+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: nojimage <nojimage@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: ../../Creational/README.rst:2
+msgid "`Creational`__"
+msgstr ""
+"`生成に関するパターン <https://ja.wikipedia.org/wiki/"
+"%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3%E3%83%91%E3%82%BF%E3%83%BC"
+"%E3%83%B3_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2)#%E7%94%9F"
+"%E6%88%90%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E3%83%91%E3%82%BF%E3%83%BC"
+"%E3%83%B3>`__"
+
+#: ../../Creational/README.rst:4
+msgid ""
+"In software engineering, creational design patterns are design patterns that "
+"deal with object creation mechanisms, trying to create objects in a manner "
+"suitable to the situation. The basic form of object creation could result in "
+"design problems or added complexity to the design. Creational design "
+"patterns solve this problem by somehow controlling this object creation."
+msgstr ""
+"ソフトウェアエンジニアリングにおいては、作成に関するデザインパターンは、オブ"
+"ジェクト作成の機構を扱うデザインパターンであり、状況に適した方法でオブジェク"
+"トを作成します。オブジェクト作成の基本的な書式では、設計の問題が発生したり、"
+"設計が複雑になる可能性があります。作成に関するデザインパターンは、このオブ"
+"ジェクトの作成を何らかの方法で制御することによって、この問題を解決します。"
