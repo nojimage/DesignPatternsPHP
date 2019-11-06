@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2019, Dominik Liebler and contributors
+# This file is distributed under the same license as the DesignPatternsPHP package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignPatternsPHP 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 19:11+0900\n"
+"PO-Revision-Date: 2019-11-06 20:21+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: nojimage <nojimage@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: ../../Creational/Singleton/README.rst:2
+msgid "`Singleton`__"
+msgstr ""
+"`Singleton （シングルトン） <https://ja.wikipedia.org/wiki/Singleton_"
+"%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3>`__"
+
+#: ../../Creational/Singleton/README.rst:4
+msgid ""
+"**THIS IS CONSIDERED TO BE AN ANTI-PATTERN! FOR BETTER TESTABILITY AND "
+"MAINTAINABILITY USE DEPENDENCY INJECTION!**"
+msgstr ""
+"**これはアンチパターンと見なされています！よりよいテスト容易性とメンテナンス"
+"性のために依存性の注入を使用してください！**"
+
+#: ../../Creational/Singleton/README.rst:8
+msgid "Purpose"
+msgstr "目的"
+
+#: ../../Creational/Singleton/README.rst:10
+msgid ""
+"To have only one instance of this object in the application that will handle "
+"all calls."
+msgstr ""
+"唯一のインスタンスを保持して、アプリケーション内におけるこのオブジェクトの全"
+"ての呼び出しを処理します。"
+
+#: ../../Creational/Singleton/README.rst:14
+msgid "Examples"
+msgstr "適用例"
+
+#: ../../Creational/Singleton/README.rst:16
+msgid "DB Connector"
+msgstr "データベースコネクター"
+
+#: ../../Creational/Singleton/README.rst:17
+msgid ""
+"Logger (may also be a Multiton if there are many log files for several "
+"purposes)"
+msgstr ""
+"ロガー（複数の目的のために多数のログファイルがある場合は、マルチトン"
+"（Multiton）になることもあります。）"
+
+#: ../../Creational/Singleton/README.rst:19
+msgid "Lock file for the application (there is only one in the filesystem ...)"
+msgstr "アプリケーションのロックファイル（ファイルシステム上に唯一）"
+
+#: ../../Creational/Singleton/README.rst:23
+msgid "UML Diagram"
+msgstr "UML図"
+
+#: ../../Creational/Singleton/README.rst:30
+msgid "Code"
+msgstr "コード"
+
+#: ../../Creational/Singleton/README.rst:32
+msgid "You can also find this code on `GitHub`_"
+msgstr "`GitHub`_ でコードを見れます"
+
+#: ../../Creational/Singleton/README.rst:34
+msgid "Singleton.php"
+msgstr "Singleton.php"
+
+#: ../../Creational/Singleton/README.rst:41
+msgid "Test"
+msgstr "テスト"
+
+#: ../../Creational/Singleton/README.rst:43
+msgid "Tests/SingletonTest.php"
+msgstr "Tests/SingletonTest.php"
