@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: DesignPatternsPHP 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-29 19:11+0900\n"
-"PO-Revision-Date: 2019-11-06 19:39+0900\n"
+"PO-Revision-Date: 2019-11-07 19:36+0900\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../Creational/Pool/README.rst:2
 msgid "`Pool`__"
-msgstr "`Pool （プール）`__"
+msgstr "`Pool`__"
 
 #: ../../Creational/Pool/README.rst:5
 msgid "Purpose"

@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: DesignPatternsPHP 1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2019-10-29 19:11+0900\n"
-"PO-Revision-Date: 2019-11-06 20:07+0900\n"
+"PO-Revision-Date: 2019-11-07 19:39+0900\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -20,7 +20,7 @@ msgstr ""
 
 #: ../../Creational/SimpleFactory/README.rst:2
 msgid "Simple Factory"
-msgstr "Simple Factory （シンプルファクトリー）"
+msgstr "Simple Factory"
 
 #: ../../Creational/SimpleFactory/README.rst:5
 msgid "Purpose"
@@ -36,10 +36,10 @@ msgid ""
 "can have multiple factories, differently parameterized, you can subclass it "
 "and you can mock it. It always should be preferred over a static factory!"
 msgstr ""
-"静的ではないため、静的なファクトリー（Static Factory）とは異なります。した"
-"がって、複数のファクトリーを持つことができ、異なるパラメーター化を行うことが"
-"でき、サブクラス化してモックすることができます。シンプルファクトリーは、常に"
-"静的なファクトリーよりも優先されるべきです！"
+"静的ではないため、Static Factory とは異なります。したがって、複数のファクト"
+"リーを持つことができ、異なるパラメーター化を行うことができ、サブクラス化して"
+"モックすることができます。シンプルファクトリーは、常に静的なファクトリーより"
+"も優先されるべきです！"
 
 #: ../../Creational/SimpleFactory/README.rst:14
 msgid "UML Diagram"
