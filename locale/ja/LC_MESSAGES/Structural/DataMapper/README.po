@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2011-2019, Dominik Liebler and contributors
+# This file is distributed under the same license as the DesignPatternsPHP package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DesignPatternsPHP 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-10-29 19:11+0900\n"
+"PO-Revision-Date: 2019-11-18 20:22+0900\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"Last-Translator: nojimage <nojimage@gmail.com>\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Language: ja\n"
+
+#: ../../Structural/DataMapper/README.rst:2
+msgid "`Data Mapper`__"
+msgstr "`Data Mapper`__"
+
+#: ../../Structural/DataMapper/README.rst:5
+msgid "Purpose"
+msgstr "目的"
+
+#: ../../Structural/DataMapper/README.rst:7
+msgid ""
+"A Data Mapper, is a Data Access Layer that performs bidirectional transfer "
+"of data between a persistent data store (often a relational database) and an "
+"in memory data representation (the domain layer). The goal of the pattern is "
+"to keep the in memory representation and the persistent data store "
+"independent of each other and the data mapper itself. The layer is composed "
+"of one or more mappers (or Data Access Objects), performing the data "
+"transfer. Mapper implementations vary in scope. Generic mappers will handle "
+"many different domain entity types, dedicated mappers will handle one or a "
+"few."
+msgstr ""
+"データマッパーは、永続的なデータストア (多くの場合、リレーショナルデータベー"
+"ス) とメモリ内のデータ表現 (ドメイン層) との間でデータの双方向転送を実行する"
+"データアクセス層です。このパターンの目的は、メモリ内のデータ表現と永続的な"
+"データストアを互いに独立させ、データマッパー自体も独立させることです。レイ"
+"ヤーは、データ転送を実行する 1 つ以上のマッパー (またはデータアクセスオブジェ"
+"クト) で構成されます。マッパーの実装はスコープにより異なります。汎用マッパー"
+"は、多くの異なるドメインエンティティの型を処理し、専用マッパーは一つまたは少"
+"数のドメインエンティティの型を扱います。"
+
+#: ../../Structural/DataMapper/README.rst:17
+msgid ""
+"The key point of this pattern is, unlike Active Record pattern, the data "
+"model follows Single Responsibility Principle."
+msgstr ""
+"このパターンの重要なポイントは、アクティブレコードパターンとは異なり、データ"
+"モデルは単一責任原則に従います。"
+
+#: ../../Structural/DataMapper/README.rst:21
+msgid "Examples"
+msgstr "適用例"
+
+#: ../../Structural/DataMapper/README.rst:23
+msgid ""
+"DB Object Relational Mapper (ORM) : Doctrine2 uses DAO named as "
+"\"EntityRepository\""
+msgstr ""
+"データベース オブジェクト・リレーショナル・マッパー（ORM）: Doctrine2 "
+"”EntityRepository” という名前の DAO（データ・アクセス・オブジェクト） を使用"
+"します"
+
+#: ../../Structural/DataMapper/README.rst:27
+msgid "UML Diagram"
+msgstr "UML図"
+
+#: ../../Structural/DataMapper/README.rst:34
+msgid "Code"
+msgstr "コード"
+
+#: ../../Structural/DataMapper/README.rst:36
+msgid "You can also find this code on `GitHub`_"
+msgstr "`GitHub`_ でコードを見れます"
+
+#: ../../Structural/DataMapper/README.rst:38
+msgid "User.php"
+msgstr "User.php"
+
+#: ../../Structural/DataMapper/README.rst:44
+msgid "UserMapper.php"
+msgstr "UserMapper.php"
+
+#: ../../Structural/DataMapper/README.rst:50
+msgid "StorageAdapter.php"
+msgstr "StorageAdapter.php"
+
+#: ../../Structural/DataMapper/README.rst:57
+msgid "Test"
+msgstr "テスト"
+
+#: ../../Structural/DataMapper/README.rst:59
+msgid "Tests/DataMapperTest.php"
+msgstr "Tests/DataMapperTest.php"
